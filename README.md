@@ -1,7 +1,7 @@
 # 寿司や 🍣
 
 Satisfy your cravings with the ultimate Japanese delivery experience!
-Crafted to attend the University requestt of building a project that elucidate the basic building blocks of a website to the masses, 寿司や is a top-notch delivery website that bring the best of Japanese cuisine right to your doorstep.
+Crafted to attend an university request of building a project that elucidate the basic building blocks of a website to the masses, 寿司や is a top-notch delivery website that bring the best of Japanese cuisine right to your doorstep.
 Enjoy a seamless ordering process, mouthwatering menu options, and lightning-fast delivery. Say goodbye to hunger – order from SushiSpeedy today and taste the flavors of Japan in no time! 🥢🍱
 
 ![1](https://github.com/mfr-vic/extensao-comunitaria/assets/149529717/80dd91ca-7e45-42d1-83d4-39f71fd8ef90)
